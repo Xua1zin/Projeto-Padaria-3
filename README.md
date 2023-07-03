@@ -5,5 +5,6 @@ Terceiro projeto mensal da faculdade de Engenharia de Software.
 
 Durante o terceiro mês aprendemos: Ponteiro, Alocação Dinâmica e Manipulação de Arquivos.
 
+
 Aqui estão os requisitos:
 [Sistema da Berenice Pt 3.docx.pdf](https://github.com/Xua1zin/Projeto-Padaria-3/files/11933826/Sistema.da.Berenice.Pt.3.docx.pdf)
